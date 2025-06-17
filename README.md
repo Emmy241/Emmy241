@@ -61,16 +61,16 @@ I leverage tools like Burp Suite, Nessus, Splunk, OWASP ZAP, and others to ident
 
 ## 🚀 Projects
 
-### [🔍 Vulnerability Assessment with DVWA + Nessus](https://github.com/Emmy241/EmmySec/tree/main/Vulnerability-Assessment)
+### [🔍 Vulnerability Assessment with DVWA + Nessus](https://github.com/Emmy241/DVWA-Vulnerability-Assessment.git)
 A complete walkthrough of a local web app penetration test using OWASP Top 10 methodology
 
-### [📊 SIEM Log Monitoring with Splunk](https://github.com/Emmy241/EmmySec/tree/main/SIEM-Log-Monitoring)
+### [📊 SIEM Log Monitoring with Splunk](https://github.com/Emmy241/SIEM-Log-Monitoring-Splunk.git)
 Monitoring and analyzing logs from Kali Linux to detect suspicious activities
 
-### [🧪 Incident Response Lab](https://github.com/Emmy241/EmmySec/tree/main/Incident-Response)
+### [🧪 Incident Response Lab](https://github.com/Emmy241/Incident-Response-Playbook.git)
 Simulated SOC environment for alert triage, investigation, and IR playbook testing
 
-### [🌐 Web App Vulnerability Testing with OWASP ZAP](https://github.com/Emmy241/EmmySec/tree/main/OWASP-ZAP-Testing)
+### [🌐 Web App Vulnerability Testing with OWASP ZAP](https://github.com/Emmy241/OWASP-ZAP-WebTest.git)
 Web app scanning to detect XSS, broken authentication, and insecure configurations
 
 ---
